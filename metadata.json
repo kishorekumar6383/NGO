@@ -1,0 +1,6 @@
+{
+  "name": "CareTrust - NGO Management for Adult Care & Child Trust",
+  "description": "Production-ready modern SaaS platform for NGOs managing adult and elderly care, Child Trust programs, food distribution, medical records, medicine inventory, pharmacy pre-orders, donations, and volunteers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
